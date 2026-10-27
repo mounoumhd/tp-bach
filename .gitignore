@@ -1,0 +1,13 @@
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration sensibles
+.env
+
+# Dossiers de dépendances
+node_modules/
